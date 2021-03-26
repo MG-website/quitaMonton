@@ -1,0 +1,1 @@
+export const mazoSelector = (state) => state.mazo

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Images } from '../../cartas'
 export function Mano() {
     return (
         <div>
